@@ -1,6 +1,6 @@
 # Sidebar-Modal
 
-![Sidebar-Modal](public/sidebar-banner.png)
+![Sidebar-Modal](public/sidebarbanner.png)
 
 ## Project Description
 
